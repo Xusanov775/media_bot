@@ -1,5 +1,0 @@
-aiogram==2.25.1
-yt-dlp
-pydub
-shazamio
-aiohttp

@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: telegram-bot
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: python main.py
+    runtime: python3.10
+    envVars:
+      - key: BOT_TOKEN
+        value: 7970865964:AAGtKAb2v_t2Yx5kLrp6xOhz_g8CdZ4f1ls
+      - key: YOUTUBE_API_KEY
+        value: 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

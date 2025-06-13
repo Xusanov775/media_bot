@@ -9,7 +9,7 @@ from tempfile import NamedTemporaryFile
 from shazamio import Shazam
 from pydub import AudioSegment
 
-API_TOKEN = '7293948123:AAH0UfEg48llfBFlNcRR4BRPMOEUW_Y8Vpc'
+API_TOKEN = '7970865964:AAGtKAb2v_t2Yx5kLrp6xOhz_g8CdZ4f1ls'
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
