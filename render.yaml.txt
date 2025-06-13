@@ -5,7 +5,6 @@ services:
     plan: free
     buildCommand: ""
     startCommand: python main.py
-    runtime: python3.10
     envVars:
       - key: BOT_TOKEN
         value: 7970865964:AAGtKAb2v_t2Yx5kLrp6xOhz_g8CdZ4f1ls
